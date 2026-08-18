@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-irluk7.salamduit.xyz/sitemap.xml
